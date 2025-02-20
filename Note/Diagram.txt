@@ -1,0 +1,19 @@
+3 loại Diagram lớn:
+ 1. Structure Diagram
+ - Class
+ - Object
+ - Package
+ - Component
+ - Composite Structure 
+ - Deployment
+
+ 2. Behavior Diagram
+ - Use Case
+ - Activity
+ - Stable Machine
+
+ 3. Interaction Diagram
+ - Sequence
+ - Timing
+ - Comunication
+ - Interation Overview
